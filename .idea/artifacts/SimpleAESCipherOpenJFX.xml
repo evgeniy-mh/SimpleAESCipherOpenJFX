@@ -1,6 +1,16 @@
 <component name="ArtifactManager">
   <artifact type="javafx" name="SimpleAESCipherOpenJFX">
     <output-path>$PROJECT_DIR$/out/artifacts/SimpleAESCipherOpenJFX</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="main.java.com.evgeniy_mh.simpleaescipher.MainApp" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="title" value="" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+      </options>
+    </properties>
     <root id="root">
       <element id="archive" name="SimpleAESCipherOpenJFX.jar">
         <element id="module-output" name="SimpleAESCipherOpenJFX" />
